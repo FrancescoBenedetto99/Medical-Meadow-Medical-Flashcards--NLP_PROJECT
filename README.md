@@ -1,5 +1,8 @@
 # Medical Meadow Medical Flashcards: Fine Tuning LLMs For Medical Q&A
 
+Project for Natural Language Processing  course held at Politecnico di Milano by Professor Mark James Carman.
+
+
 ## Project Overview
 
 The primary objective of this project is to develop and refine LLM models capable of accurately answering complex medical questions. Key steps include data preprocessing, embedding and indexing of answers, and model fine-tuning and evaluation on a domain-specific dataset.
